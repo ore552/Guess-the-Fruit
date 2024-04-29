@@ -71,7 +71,7 @@ btn.addEventListener("click", (e) =>{
         }
 
         //let us set the image.
-        fruitImg.src = "images/"+fruits[indexNumber]+".jpg";
+        fruitImg.src = fruits[indexNumber]+".jpg";
     }
 });
 
