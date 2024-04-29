@@ -35,7 +35,12 @@ btn.addEventListener("click", (e) =>{
                   "Banana", 
                   "Orange", 
                   "Amla", 
-                  "Lychee", "Jackfruit", "Ackee", "Passion Fruit", "Pitaya", "Sugar Apple"];
+                  "Lychee", 
+                  "Jackfruit", 
+                  "Ackee",
+                  "Passion Fruit", 
+                  "Pitaya", 
+                  "Sugar Apple"];
 
     //let us create a form validation.
     //form validation
