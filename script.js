@@ -31,7 +31,11 @@ btn.addEventListener("click", (e) =>{
     let fruitImg = document.querySelector(".fruit-img");
 
     //let us create an array for the fruit
-    let fruits = ["Apple", "Banana", "Orange", "Amla", "Lychee", "Jackfruit", "Ackee", "Passion Fruit", "Pitaya", "Sugar Apple"];
+    let fruits = ["Apple", 
+                  "Banana", 
+                  "Orange", 
+                  "Amla", 
+                  "Lychee", "Jackfruit", "Ackee", "Passion Fruit", "Pitaya", "Sugar Apple"];
 
     //let us create a form validation.
     //form validation
